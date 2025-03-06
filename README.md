@@ -14,7 +14,7 @@
 ## Установка ⚙️
 
 1. Клонируйте репозиторий:
-```bash
+
 git clone https://github.com/s4uc3py/Wish_list_telegram-bot.git
 
 2. Установите зависимости:
