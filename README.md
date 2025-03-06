@@ -28,7 +28,7 @@ pip install pyTelegramBotAPI
 
 Запустите бота:
 ```bash
-python bot.py
+python main.py
 ```
 
 Настройка ⚡️
