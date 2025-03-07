@@ -1,0 +1,21 @@
+[project]
+name = "wishlist-bot"
+version = "0.1.0"
+description = "Телеграм-бот для управления списком подарков с возможностью бронирования."
+authors = [
+    { name = "Евгений Нечаев", email = "sausetm@gmail.com" }
+]
+dependencies = [
+    "pyTelegramBotAPI>=4.0.0"
+]
+requires-python = ">=3.8"
+readme = "README.md"
+
+[project.urls]
+Homepage = "https://github.com/s4uc3py/Wish_list_telegram-bot"
+Repository = "https://github.com/s4uc3py/Wish_list_telegram-bot"
+Issues = "https://github.com/s4uc3py/Wish_list_telegram-bot/issues"
+
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
