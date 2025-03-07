@@ -17,18 +17,18 @@
 ```bash
 git clone https://github.com/s4uc3py/Wish_list_telegram-bot.git
 ```
+2. Создайте бота через @BotFather и получите токен
 
-2. Установите зависимости:
+3. В файле wishlist-bot.py замените 'YOUR_BOT_TOKEN' на ваш токен
+
+4. Установите зависимости:
 ```bash
-pip install pyTelegramBotAPI
+pip install .
 ```
-3. Создайте бота через @BotFather и получите токен
 
-4. В файле main.py замените 'YOUR_BOT_TOKEN' на ваш токен
-
-Запустите бота:
+5. Запустите бота:
 ```bash
-python main.py
+python wishlist-bot.py
 ```
 
 Настройка ⚡️
